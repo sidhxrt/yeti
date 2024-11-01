@@ -20,3 +20,4 @@ def euclidean_dist(x, y):
         for i in range(len(x)):
            sum = sum + ((x[i] - y[i])**2)
         return sum**0.5 
+    
